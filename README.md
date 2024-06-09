@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-This project is a simple Tic Tac Toe game built using React.
+This project is a Tic Tac Toe game built using React.
 
 ## Features
 

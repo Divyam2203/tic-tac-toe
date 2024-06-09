@@ -36,20 +36,20 @@ npm run dev
 
 Open http://localhost:5173 (or the port specified on the command line) in your browser.
 
-### Gameplay
+## Gameplay
 
 Edit player names.
 Click on a square to make your move.
 A winner is declared when a row, column, or diagonal is filled with the same symbol.
 The game shows a game over screen with a rematch button
 
-### Future Improvements
+## Future Improvements
 
 - Implement an AI mode.
 - Enhance the UI with styling libraries like Material-UI or Bootstrap.
 - Add visual indicators for winning lines.
 - Improved animations.
 
-### Contribution
+## Contribution
 
 Feel free to fork this repository and contribute your improvements!

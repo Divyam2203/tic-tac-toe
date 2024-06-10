@@ -42,6 +42,7 @@ Edit player names.
 Click on a square to make your move.
 A winner is declared when a row, column, or diagonal is filled with the same symbol.
 The game shows a game over screen with a rematch button
+### Screenshots
 
 ### Future Improvements
 

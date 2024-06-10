@@ -190,6 +190,20 @@ ol {
   padding: 1rem;
 }
 
+@media screen and (max-width: 530px){
+  #game-board button {
+    width: 4rem;
+    height: 4rem;
+    border: none;
+    background: #aca788;
+    color: #3f3b00;
+    font-size: 2.5rem;
+    cursor: pointer;
+    font-family: 'Caprasimo', cursive;
+    padding: 0.5rem;
+  }
+}
+
 #game-over {
   position: absolute;
   top: 0;
